@@ -1,7 +1,7 @@
 # Getting Started project
 
 
-URL: https://netflix-clone-5966a.web.app/ 
+URL: https://netflix-clone-732cd.web.app/
 
 ----- or -----
 

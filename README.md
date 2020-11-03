@@ -1,7 +1,8 @@
 # Getting Started project
 
-local: npm start
 
-or
+URL: https://netflix-clone-5966a.web.app/ 
 
-access: https://netflix-clone-5966a.web.app/ 
+----- or -----
+
+npm start
